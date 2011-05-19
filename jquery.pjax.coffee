@@ -1,6 +1,6 @@
-# jquery.pjax.js
+# jquery.pjax.coffee
 # copyright chris wanstrath
-# https://github.com/defunkt/pjax
+# https://github.com/defunkt/jquery-pjax/tree/coffee
 
 $ = jQuery
 
