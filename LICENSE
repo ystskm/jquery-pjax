@@ -1,4 +1,14 @@
-Copyright (c) Chris Wanstrath
+Copyright (c) ystskm
+https://github.com/ystskm/jquery-pjax/LICENSE
+
+Product
+jquery.pjax.js 
+base on defunkt/jquery-pjax
+
+License
+MIT License or the GNU General Public License (GPL) Version 3.
+MIT License( http://en.wikipedia.org/wiki/MIT_License )
+GPL ( http://en.wikipedia.org/wiki/GNU_General_Public_License )
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
